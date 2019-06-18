@@ -1,40 +1,40 @@
-def using_push
+def using_push(array, string)
   
 end
 
-def using_unshift
+def using_unshift(array, string)
   
 end
 
-def using_pop
+def using_pop(array)
   
 end
 
-def pop_with_args
+def pop_with_args(array, 2)
   
 end
 
-def using_shift
+def using_shift(array)
   
 end
 
-def shift_with_args
+def shift_with_args(array, 2)
   
 end
 
-def using_concat
+def using_concat(arr1, arr2)
   
 end
 
-def using_insert
+def using_insert(array, element)
 
 end
 
-def using_uniq
+def using_uniq(array)
 
 end
 
-def using_flatten
+def using_flatten(array)
 
 end
 
