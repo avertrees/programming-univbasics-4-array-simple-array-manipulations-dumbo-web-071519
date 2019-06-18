@@ -26,11 +26,22 @@ def using_concat
   
 end
 
-using_insert
+def using_insert
 
+end
 
-using_uniq
+def using_uniq
 
-using_flatten
+end
 
-using_delete
+def using_flatten
+
+end
+
+def using_delete
+
+end
+
+def using_delete_at
+  
+end
