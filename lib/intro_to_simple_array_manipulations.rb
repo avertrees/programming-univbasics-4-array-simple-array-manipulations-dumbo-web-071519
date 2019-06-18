@@ -25,3 +25,5 @@ end
 def using_concat
   
 end
+
+using_insert
