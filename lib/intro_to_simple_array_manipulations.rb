@@ -27,3 +27,6 @@ def using_concat
 end
 
 using_insert
+
+
+using_uniq
