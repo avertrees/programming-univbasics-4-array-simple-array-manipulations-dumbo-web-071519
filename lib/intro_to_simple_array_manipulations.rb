@@ -30,3 +30,5 @@ using_insert
 
 
 using_uniq
+
+using_flatten
